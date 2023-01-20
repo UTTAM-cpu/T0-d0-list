@@ -16,7 +16,7 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image:  url(/images/img2.jpg);
+    background-image:  url(./images/img2.jpg);
     background-size: cover;
     
 
